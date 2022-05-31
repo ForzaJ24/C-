@@ -11,11 +11,18 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 if (a < b) 
 { 
-    Console.WriteLine("a=Min b=Max");
+    Console.WriteLine("Min = ");
+    Console.WriteLine(a);
+    Console.WriteLine("Max = ");
+    Console.WriteLine(b);
+
  }
 else if (a > b) 
 {
-     Console.WriteLine("a=Max b=Min"); 
+     Console.WriteLine("Min = ");
+    Console.WriteLine(b);
+    Console.WriteLine("Max = ");
+    Console.WriteLine(a);
 }
 else if (a == b) 
 { 
