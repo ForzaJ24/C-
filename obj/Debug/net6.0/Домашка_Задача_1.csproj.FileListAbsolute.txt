@@ -1,0 +1,15 @@
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\bin\Debug\net6.0\Домашка_Задача_1.exe
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\bin\Debug\net6.0\Домашка_Задача_1.deps.json
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\bin\Debug\net6.0\Домашка_Задача_1.runtimeconfig.json
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\bin\Debug\net6.0\Домашка_Задача_1.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\bin\Debug\net6.0\Домашка_Задача_1.pdb
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.csproj.AssemblyReference.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.AssemblyInfoInputs.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.AssemblyInfo.cs
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.csproj.CoreCompileInputs.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\refint\Домашка_Задача_1.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.pdb
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\Домашка_Задача_1.genruntimeconfig.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\Домашка_Задача_1\obj\Debug\net6.0\ref\Домашка_Задача_1.dll
