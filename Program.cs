@@ -1,6 +1,14 @@
 ﻿// Max and Min numbers
 
-int a = 5, b = 7;
+Console.WriteLine("Hi,Mentor!Please,enter first number: ");
+
+int a = Convert.ToInt32(Console.ReadLine()); 
+
+Console.WriteLine("Please,enter second number: ");
+
+int b = Convert.ToInt32(Console.ReadLine());
+
+
 if (a < b) 
 { 
     Console.WriteLine("a=Min b=Max");
